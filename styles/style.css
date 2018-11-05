@@ -4,6 +4,7 @@
     left: 0;
     width: 100vw;
     height: 100vh;
+    overflow: hidden;
     background: radial-gradient(circle at center, #444, #000);
     font-family: Montserrat, sans-serif;
 }
