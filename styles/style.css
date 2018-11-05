@@ -64,8 +64,10 @@
     position: absolute;
     top: 25%;
     left: 25%;
-    width: 120px;
-    height: 120px;
+    width: 12vmin;
+    height: 12vmin;
+    margin-top: -6vmin;
+    margin-left: -6vmin;
     background: #eee;
     border-radius: 100%;
     box-shadow: 5px 5px 15px rgba(0, 0, 0, 0.5);
